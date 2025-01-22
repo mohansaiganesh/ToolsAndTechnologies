@@ -1,2 +1,3 @@
 This folder contains examples using DOCKER.
-Create seperate folders for EXAMPLES and each project.
+Create a folder for EXAMPLES.
+Create a seperate folder for each project.
