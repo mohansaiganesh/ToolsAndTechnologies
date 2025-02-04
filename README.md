@@ -1,11 +1,11 @@
 # ToolsAndTechnologies
 Sample code examples on latest tools and technologies.
-DOCKER
+DOCKER - sample codes/ examples using Docker
 
-OLLAMA
+OLLAMA - Running LLMs locally
 
-REQUESTS
+REQUESTS - extract data from website/url
 
-LATEX
+LATEX - useful for generating pdfs
 
-SELENIUM
+SELENIUM - automation scripts
