@@ -9,3 +9,5 @@ REQUESTS - extract data from website/url
 LATEX - useful for generating pdfs
 
 SELENIUM - automation scripts
+
+Remove KOTLIN file.
